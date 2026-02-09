@@ -8,3 +8,8 @@ Exercícios do curso Python-for-Finance
 - NumPy  
 - Scikit-learn  
 - Matplotlib / Seaborn  
+
+
+Author
+
+Gustavo Henrique Silva Alves
